@@ -1,6 +1,12 @@
 # BEST Rename-Bot
 This is a very simple Telegram Files Rename Bot by [💔Lonelyking💔](https://t.me/sarbudeen786).
 
+CHECK OUR MAIN BOT [Thanimairenameprobot](
+https://t.me/Thanimairenameprobot)
+
+
+
+
 ## Features
 - Rename Videos, Documents or Audios without downloading the file.
 - Change video title, audio track title, subtitle track title.
