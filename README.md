@@ -31,8 +31,15 @@ broadcast - Broadcast Message. (Admin Only)
 status - Show Users Count in DB. (Admin Only)
 ```
 
-### Support Group
-<a href="https://t.me/thanimaisupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
+
+# ❤️ Support
+<a href="https://t.me/thanimaibots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
+<a href="https://t.me/thanimaisupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+ 
+
 
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
