@@ -1,6 +1,6 @@
 # BEST Rename-Bot
 This is a very simple Telegram Files Rename Bot by [💔Lonelyking💔](https://t.me/sarbudeen786).
-
+<img src="https://telegra.ph/file/97dda36a75349b836d7bd.jpg?style=flat-square&logo=python&color=blue" /> </a>
 CHECK OUR MAIN BOT [Thanimairenameprobot](
 https://t.me/Thanimairenameprobot)
 
